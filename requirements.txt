@@ -1,7 +1,2 @@
 pyTelegramBotAPI
 feedparser
-time
-html
-re
-os
-
