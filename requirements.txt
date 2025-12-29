@@ -1,7 +1,7 @@
 pyTelegramBotAPI
-telebot
 feedparser
 time
 html
 re
 os
+
